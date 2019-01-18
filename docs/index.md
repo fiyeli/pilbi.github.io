@@ -11,8 +11,8 @@ We provide an AI module which uses Darknet as a deep learning framework and NNPA
 We provide a sample
 
 ## Install
-### [Formater sd](installsd.md)
+### [Formater sd](installsd.md#create-the-sd-card)
 We provide an installer to format an sd card for raspberry pi 3. Writting in ruby
 
-### [setup server](ansible.md)
+### [setup server](installsd.md#run-installation-on-raspberry-pi)
 We provide an ansible script to deploy Fiyeli on every device.
