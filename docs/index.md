@@ -8,17 +8,16 @@ We provide an AI module which uses Darknet as a deep learning framework and NNPA
 
 ## API Module
 ### [API](api.md)
+The API module makes the statistics computed by the Fiyeli accessible.
 
 ## Install Module
 ### [Install](install.md)
-
+The Install module makes the Fiyeli easy to use for everybody thanks to its 2-line installation.
 
 ## Camera Module
 ### [Camera](camera.md)
+The camera module enable the Pi camera image shooting.
 
 ## Core module
 ### [Core](core.md)
-
-## Install
-### [Formater sd](install.md)
-We provide an installer to format an sd card for raspberry pi 3. Written in ruby. We also provide an ansible script to deploy Fiyeli on every device.
+The core module, associated with all the other modules implement a person counter.
